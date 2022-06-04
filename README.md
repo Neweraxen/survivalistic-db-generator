@@ -2,6 +2,8 @@
 
 Survivalistic Mod here: [https://www.nexusmods.com/stardewvalley/mods/12179](https://www.nexusmods.com/stardewvalley/mods/12179)
 
+Some outputs of this mod here: [link](https://drive.google.com/file/d/165C_M5in3p-3RC9UubTNdElHHSsH6k0H/view?usp=sharing)
+
 ## Setup
 1. clone the project from GitHub
 2. open the terminal, and run `npm run install`
