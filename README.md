@@ -34,6 +34,7 @@ The download above currently includes database jsons for:
 - [SSaturn's Tropical Farm](https://www.nexusmods.com/stardewvalley/mods/5585) (`SSaturn.TropicalFarm_edibles`)
 - [Floral Liqueurs](https://www.nexusmods.com/stardewvalley/mods/11752) (`Tithrandel.FloralLiqueursJA_edibles`, `Tithrandel.FloralLiqueursJAforMods_edibles`)
 - [Lunar New Year Foods](https://www.nexusmods.com/stardewvalley/mods/10890) (`violetlizabet.JA.LunarFoods_edibles`)
+- [Cakes and Creams](https://www.nexusmods.com/stardewvalley/mods/12244) (`Vyranity.CakesAndCreams_edibles`)
 
 If you download that, remember to place them inside the `Databases` directory, found at `Survivalistic/assets/Databases`.
 
