@@ -9,6 +9,7 @@ The download above currently includes database jsons for:
 - [Sweet Tooth](https://www.nexusmods.com/stardewvalley/mods/1897) (`Aquilegia.SweetTooth_edibles`)
 - [Bugmeat Recipes](https://www.nexusmods.com/stardewvalley/mods/4502) (`BlatantDecoy.BugmeatRecipes_edibles`)
 - [Bonster's Recipes](https://www.nexusmods.com/stardewvalley/mods/3468) (`Bonster.Recipes_edibles`, `Bonster.Adv.Recipes_edibles`)
+- [Frozen Yogurt](https://www.nexusmods.com/stardewvalley/mods/12308) (`Failsplat.FroyoJA_edibles`, `Failsplat.FroyoFantasyJA_edibles`)
 - [Edible Gels](https://www.nexusmods.com/stardewvalley/mods/12064) (`Failsplat.GelFoodsJA_edibles`)
 - [Champagne Wishes](https://www.nexusmods.com/stardewvalley/mods/5721) (`fwippy.champagnewishes_edibles`)
 - [Always Raining in the Valley - Custom NPCs for East Scarp](https://www.nexusmods.com/stardewvalley/mods/9999) (`Himetarts.ARV.JA`)
