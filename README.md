@@ -46,6 +46,9 @@ The download above currently includes database jsons for:
 - [Cakes and Creams](https://www.nexusmods.com/stardewvalley/mods/12244) (`Vyranity.CakesAndCreams_edibles`)
 - [The Void Recipes](https://www.nexusmods.com/stardewvalley/mods/12561) (`Ylgnik.VoidFood_edibles`)
 
+Also added to the pack, conversion by Dimentiza on Nexus: 
+- [Forage of Ferngill](https://www.nexusmods.com/stardewvalley/mods/8828) (`StunkyMcDoo.ForageofFerngill.JA_edibles`)
+
 If you download that, remember to place them inside the `Databases` directory, found at `Survivalistic/assets/Databases`.
 
 ## Setup
