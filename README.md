@@ -10,6 +10,7 @@ The download above currently includes database jsons for:
 - [Bugmeat Recipes](https://www.nexusmods.com/stardewvalley/mods/4502) (`BlatantDecoy.BugmeatRecipes_edibles`)
 - [Bonster's Recipes](https://www.nexusmods.com/stardewvalley/mods/3468) (`Bonster.Recipes_edibles`, `Bonster.Adv.Recipes_edibles`)
 - [Okay Recipes](https://www.nexusmods.com/stardewvalley/mods/8657) (`CopperSun.OkayRecipes_edibles`)
+- [Dutch Pancakes](https://www.nexusmods.com/stardewvalley/mods/12725) (`Darcy91.DutchPancakes_edibles`)
 - [Cocoa Plant and Chocolate Cooking](https://www.nexusmods.com/stardewvalley/mods/8354) (`eorl.CocoaPlant_edibles`)
 - [Frozen Yogurt](https://www.nexusmods.com/stardewvalley/mods/12308) (`Failsplat.FroyoJA_edibles`, `Failsplat.FroyoFantasyJA_edibles`)
 - [Edible Gels](https://www.nexusmods.com/stardewvalley/mods/12064) (`Failsplat.GelFoodsJA_edibles`)
