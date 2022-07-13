@@ -37,6 +37,7 @@ The download above currently includes database jsons for:
 - [Even More Recipes](https://www.nexusmods.com/stardewvalley/mods/1742) (`ppja.evenmorerecipes_edibles`)
 - [More Trees](https://www.nexusmods.com/stardewvalley/mods/1671) (`ppja.moretrees_edibles`)
 - [Starbrew Valley](https://www.nexusmods.com/stardewvalley/mods/1764) (`ppja.starbrewvalley_edibles`)
+- [Ridgeside Valley](https://www.nexusmods.com/stardewvalley/mods/7286) (`Rafseazz.RSVJA_edibles`)
 - [Baker's Life](https://www.nexusmods.com/stardewvalley/mods/5213) (`Ritsune.BakersLifeJA_edibles`)
 - [Chocolatier](https://www.nexusmods.com/stardewvalley/mods/5403) (`Ritsune.ChocolatierJA_edibles`)
 - [English Country Garden - Herbal Teas](https://www.nexusmods.com/stardewvalley/mods/12039) (`runswithpencils.HerbalTeaGarden_edibles`, `runswithpencils.Recipes_edibles`)
